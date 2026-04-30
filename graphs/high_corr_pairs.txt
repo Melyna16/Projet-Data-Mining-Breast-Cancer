@@ -1,0 +1,38 @@
+Paires avec |r| > 0.9 :
+radius_mean & perimeter_mean : 0.998
+radius_mean & area_mean : 0.987
+radius_mean & radius_worst : 0.970
+radius_mean & perimeter_worst : 0.965
+radius_mean & area_worst : 0.941
+radius_mean & ratio_perimeter_area : -0.942
+texture_mean & texture_worst : 0.912
+perimeter_mean & area_mean : 0.987
+perimeter_mean & radius_worst : 0.969
+perimeter_mean & perimeter_worst : 0.970
+perimeter_mean & area_worst : 0.942
+perimeter_mean & ratio_perimeter_area : -0.932
+area_mean & radius_worst : 0.963
+area_mean & perimeter_worst : 0.959
+area_mean & area_worst : 0.959
+concavity_mean & concave points_mean : 0.921
+concave points_mean & concave points_worst : 0.910
+radius_se & perimeter_se : 0.973
+radius_se & area_se : 0.952
+radius_se & radius_se_log : 0.983
+radius_se & perimeter_se_log : 0.925
+radius_se & area_se_log : 0.907
+perimeter_se & area_se : 0.938
+perimeter_se & radius_se_log : 0.948
+perimeter_se & perimeter_se_log : 0.939
+smoothness_se & smoothness_se_log : 1.000
+concavity_se & concavity_se_log : 0.998
+symmetry_se & symmetry_se_log : 1.000
+fractal_dimension_se & fractal_dimension_se_log : 1.000
+radius_worst & perimeter_worst : 0.994
+radius_worst & area_worst : 0.984
+radius_worst & ratio_perimeter_area : -0.905
+perimeter_worst & area_worst : 0.978
+area_worst & area_trend : 0.919
+radius_se_log & perimeter_se_log : 0.961
+radius_se_log & area_se_log : 0.951
+perimeter_se_log & area_se_log : 0.940
